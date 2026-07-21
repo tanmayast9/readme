@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/images/header.png" width="100%" alt="Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Tanmaya%20Tilavalli&fontSize=50&fontColor=fff&animation=twinkling" width="100%" alt="Banner">
 
 <!-- Animated Typing Effect -->
 <h1>
@@ -78,11 +78,11 @@
       <br>Jupyter
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="48" height="48" alt="n8n">
+      <img src="https://img.icons8.com/color/48/n8n.png" width="48" height="48" alt="n8n">
       <br>n8n
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva">
+      <img src="https://img.icons8.com/color/48/canva.png" width="48" height="48" alt="Canva">
       <br>Canva
     </td>
     <td align="center" width="96">
@@ -157,8 +157,8 @@
   </tr>
 </table>
 
-<!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/tanmayast9/tanmayast9/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+<!-- Contribution Snake - Generate with GitHub Actions -->
+<!-- <img src="https://raw.githubusercontent.com/tanmayast9/tanmayast9/output/github-contribution-grid-snake.svg" alt="Snake Animation"> -->
 
 <!-- Visitor Counter -->
 <p align="center">
