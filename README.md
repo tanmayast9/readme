@@ -105,20 +105,20 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/robot-2.png" width="64" height="64" alt="AI">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64" height="64" alt="AI">
       <br><b>AI Development</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" alt="Data Science">
+      <img src="https://img.icons8.com/fluency/96/data-configuration.png" width="64" height="64" alt="Data Science">
       <br><b>Data Science</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/96/money-bag-dollar.png" width="64" height="64" alt="Finance">
+      <img src="https://img.icons8.com/fluency/96/stack-of-coins.png" width="64" height="64" alt="Finance">
       <br><b>Finance Tech</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/96/settings-automation.png" width="64" height="64" alt="Automation">
-      <br><b>Automation</b>
+      <img src="https://img.icons8.com/fluency/96/robot-2.png" width="64" height="64" alt="Automation">
+      <br><b>AI Automation</b>
     </td>
   </tr>
 </table>
