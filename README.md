@@ -78,7 +78,9 @@
       <br>Jupyter
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/n8n.png" width="48" height="48" alt="n8n">
+      <a href="https://www.youtube.com/@n8n-io/posts">
+        <img src="https://img.icons8.com/color/48/n8n.png" width="48" height="48" alt="n8n">
+      </a>
       <br>n8n
     </td>
     <td align="center" width="96">
@@ -184,7 +186,7 @@
 </p>
 
 <!-- Footer Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="100%" alt="Wave">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Wave">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=500&color=00f7ff&center=true&vCenter=true&width=400&lines=Built%20with%20❤️%20by%20Tanmaya%20Tilavalli" alt="Footer">
