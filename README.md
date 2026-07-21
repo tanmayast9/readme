@@ -78,7 +78,7 @@
       <br>Jupyter
     </td>
     <td align="center" width="96">
-      <a href="https://www.youtube.com/@n8n-io/posts">
+      <a href="https://www.youtube.com/@n8n-io/videos">
         <img src="https://img.icons8.com/color/48/n8n.png" width="48" height="48" alt="n8n">
       </a>
       <br>n8n
