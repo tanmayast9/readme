@@ -139,11 +139,8 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayast9&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff0055" alt="Activity Graph">
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=tanmayast9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Profile Trophy">
     </td>
   </tr>
   <tr>
