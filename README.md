@@ -131,21 +131,8 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tanmayast9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00f7ff&title_color=00f7ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayast9&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff0055&currStreakLabel=00f7ff" alt="Streak Stats">
-    </td>
-  </tr>
-  <tr>
     <td colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayast9&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff0055" alt="Activity Graph">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayast9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&card_width=500" alt="Top Languages">
     </td>
   </tr>
 </table>
