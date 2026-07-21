@@ -78,7 +78,7 @@
       <br>Jupyter
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/n8n/FF5C5C" width="48" height="48" alt="n8n">
+      <img src="https://img.icons8.com/color/48/n8n.png" width="48" height="48" alt="n8n">
       <br>n8n
     </td>
     <td align="center" width="96">
@@ -109,15 +109,15 @@
       <br><b>AI Development</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/data-science.png" width="64" height="64" alt="Data Science">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" alt="Data Science">
       <br><b>Data Science</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/finance.png" width="64" height="64" alt="Finance">
+      <img src="https://img.icons8.com/fluency/96/money-bag-dollar.png" width="64" height="64" alt="Finance">
       <br><b>Finance Tech</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/automation.png" width="64" height="64" alt="Automation">
+      <img src="https://img.icons8.com/fluency/96/settings-automation.png" width="64" height="64" alt="Automation">
       <br><b>Automation</b>
     </td>
   </tr>
