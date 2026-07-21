@@ -78,7 +78,7 @@
       <br>Jupyter
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/n8n.png" width="48" height="48" alt="n8n">
+      <img src="https://cdn.simpleicons.org/n8n/FF5C5C" width="48" height="48" alt="n8n">
       <br>n8n
     </td>
     <td align="center" width="96">
@@ -120,10 +120,6 @@
       <img src="https://img.icons8.com/color/96/automation.png" width="64" height="64" alt="Automation">
       <br><b>Automation</b>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/learning.png" width="64" height="64" alt="Learning">
-      <br><b>Continuous Learning</b>
-    </td>
   </tr>
 </table>
 
@@ -136,7 +132,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tanmayast9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00f7ff&title_color=00f7ff&text_color=c9d1d9" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=tanmayast9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00f7ff&title_color=00f7ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats">
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayast9&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff0055&currStreakLabel=00f7ff" alt="Streak Stats">
@@ -152,7 +148,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayast9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayast9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&card_width=500" alt="Top Languages">
     </td>
   </tr>
 </table>
@@ -162,57 +158,8 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/tanmayast9/count.svg" alt="Visitor Counter">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tanmayast9.tanmayast9&left_color=0d1117&right_color=00f7ff&title=Visitors" alt="Visitor Counter">
 </p>
-
-<!-- SVG Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Separator">
-
-<!-- Featured Projects -->
-<h2>🚀 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/tanmayast9/finance-tracker">
-        <img src="https://img.icons8.com/color/96/money-bag.png" width="80" height="80" alt="Finance Tracker">
-        <br>
-        <b>Finance Tracker</b>
-        <br>
-        <img src="https://img.shields.io/badge/Finance-Tracking-00f7ff?style=flat-square" alt="Badge">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/tanmayast9/ai-projects">
-        <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="80" height="80" alt="AI Projects">
-        <br>
-        <b>AI Projects</b>
-        <br>
-        <img src="https://img.shields.io/badge/Machine%20Learning-AI-ff0055?style=flat-square" alt="Badge">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/tanmayast9/ml-projects">
-        <img src="https://img.icons8.com/color/96/neural-network.png" width="80" height="80" alt="ML Projects">
-        <br>
-        <b>ML Projects</b>
-        <br>
-        <img src="https://img.shields.io/badge/Deep%20Learning-ML-9b59b6?style=flat-square" alt="Badge">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/tanmayast9/automation-projects">
-        <img src="https://img.icons8.com/color/96/automation.png" width="80" height="80" alt="Automation Projects">
-        <br>
-        <b>Automation Projects</b>
-        <br>
-        <img src="https://img.shields.io/badge/Workflow-Automation-00ff88?style=flat-square" alt="Badge">
-      </a>
-    </td>
-  </tr>
-</table>
 
 <!-- SVG Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Separator">
